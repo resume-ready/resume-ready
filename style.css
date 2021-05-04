@@ -12,7 +12,7 @@
 body{
     background: #f3f5f9;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/capture2.jpg);
+    url(./img/capture2.jpg);
     position:relative;
     background-size: cover;
     font-family: "Poppins", sans-serif;
