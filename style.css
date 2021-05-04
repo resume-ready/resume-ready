@@ -118,16 +118,16 @@ button a{
     background-position: center;
 }
 .picture1{
-    background-image: url(../img/Mansaf.PNG);
+    background-image: url(./img/Mansaf.PNG);
 }
 .picture2{
-    background-image: url(../img/Kebbeh.PNG);
+    background-image: url(./img/Kebbeh.PNG);
 }
 .picture3{
-    background-image: url(../img/Maklouba.PNG);
+    background-image: url(./img/Maklouba.PNG);
 }
 .picture4{
-    background-image: url(../img/Makmoura.PNG);
+    background-image: url(./img/Makmoura.PNG);
 }
 .picture:hover {
     transform: translateY(-10px);
